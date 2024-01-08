@@ -1,0 +1,1897 @@
+SplineFontDB: 3.2
+FontName: likaliliala
+FullName: lika lili ala
+FamilyName: lika lili ala
+Weight: Bold
+Copyright: Copyright (c) 2023, kije Enki
+UComments: "2023-12-24: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+DefaultBaseFilename: lilialab
+ItalicAngle: 0
+UnderlinePosition: -62
+UnderlineWidth: 0
+Ascent: 14
+Descent: 2
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 547 -761801329 19854]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1703368911
+ModificationTime: 1703441670
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+Lookup: 4 0 0 "'dlig' a merging" { "'dlig' Discretionary Ligatures lookup 1-1"  } ['dlig' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' all words" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL without afii
+DisplaySize: -36
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 32 7
+BeginPrivate: 0
+EndPrivate
+BeginChars: 65536 72
+
+StartChar: a
+Encoding: 97 97 0
+Width: 16
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+8 8 m 1
+ 7 6 l 1
+ 9 6 l 1
+ 8 8 l 1
+2 0 m 1
+ 8 12 l 25
+ 14 0 l 1
+ 12 0 l 1
+ 10 4 l 1
+ 6 4 l 1
+ 4 0 l 1
+ 2 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 1
+Width: 0
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 2
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 12 m 25
+ 11 12 l 25
+ 11 8 l 25
+ 9 8 l 25
+ 9 12 l 25
+5 12 m 25
+ 7 12 l 25
+ 7 8 l 25
+ 5 8 l 25
+ 5 12 l 25
+EndSplineSet
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 3
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 8 m 1
+ 7 8 l 1
+ 7 6 l 1
+ 9 6 l 1
+ 9 8 l 1
+13 4 m 1
+ 11 4 l 1
+ 11 2 l 1
+ 9 2 l 1
+ 9 4 l 1
+ 7 4 l 1
+ 7 2 l 1
+ 5 2 l 1
+ 5 4 l 1
+ 3 4 l 1
+ 3 6 l 1
+ 5 6 l 25
+ 5 8 l 25
+ 3 8 l 1
+ 3 10 l 1
+ 5 10 l 1
+ 5 12 l 1
+ 7 12 l 1
+ 7 10 l 1
+ 9 10 l 1
+ 9 12 l 1
+ 11 12 l 1
+ 11 10 l 1
+ 13 10 l 1
+ 13 8 l 1
+ 11 8 l 1
+ 11 6 l 1
+ 13 6 l 1
+ 13 4 l 1
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 4
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+14 2 m 1
+ 14 0 l 1
+ 10 0 l 1
+ 10 6 l 1
+ 4 6 l 1
+ 4 2 l 1
+ 8 2 l 1
+ 8 0 l 1
+ 2 0 l 1
+ 2 12 l 1
+ 8 12 l 1
+ 8 10 l 1
+ 4 10 l 1
+ 4 8 l 1
+ 10 8 l 1
+ 10 12 l 1
+ 12 12 l 1
+ 12 8 l 1
+ 14 8 l 1
+ 14 6 l 1
+ 12 6 l 1
+ 12 2 l 1
+ 14 2 l 1
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 5
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 29
+ 9 12 l 25
+ 9 8 l 25
+ 7 8 l 25
+ 7 12 l 29
+EndSplineSet
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 6
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 5 m 1
+ 9 2 l 1
+ 7 2 l 1
+ 7 5 l 1
+ 5 3 l 1
+ 4 4 l 1
+ 6 6 l 1
+ 3 6 l 1
+ 3 8 l 1
+ 6 8 l 1
+ 4 10 l 1
+ 5 11 l 1
+ 7 9 l 1
+ 7 12 l 1
+ 9 12 l 1
+ 9 9 l 9
+ 11 11 l 25
+ 12 10 l 25
+ 10 8 l 17
+ 13 8 l 1
+ 13 6 l 1
+ 10 6 l 9
+ 12 4 l 1
+ 11 3 l 25
+ 9 5 l 1
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 7
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 8 m 1
+ 10 7 l 1
+ 7 4 l 25
+ 6 5 l 25
+ 9 8 l 1
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 8
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+6 7 m 0
+ 6 8 7 9 8 9 c 0
+ 9 9 10 8 10 7 c 0
+ 10 6 9 5 8 5 c 0
+ 7 5 6 6 6 7 c 0
+EndSplineSet
+EndChar
+
+StartChar: zero
+Encoding: 48 48 9
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+8 10 m 5
+ 7 9 l 5
+ 7 3 l 5
+ 8 2 l 5
+ 9 3 l 5
+ 9 9 l 5
+ 8 10 l 5
+7 12 m 5
+ 9 12 l 5
+ 11 10 l 5
+ 11 2 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 5 2 l 5
+ 5 10 l 5
+ 7 12 l 5
+EndSplineSet
+EndChar
+
+StartChar: one
+Encoding: 49 49 10
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+8 10 m 1
+ 6 10 l 1
+ 6 12 l 1
+ 10 12 l 1
+ 10 0 l 1
+ 8 0 l 1
+ 8 10 l 1
+EndSplineSet
+EndChar
+
+StartChar: two
+Encoding: 50 50 11
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 7 m 5
+ 5 2 l 5
+ 5 0 l 5
+ 11 0 l 5
+ 11 2 l 5
+ 8 2 l 5
+ 11 6 l 5
+ 11 10 l 5
+ 9 12 l 5
+ 7 12 l 5
+ 5 10 l 5
+ 5 8 l 5
+ 7 8 l 5
+ 7 9 l 5
+ 8 10 l 5
+ 9 9 l 5
+ 9 7 l 5
+EndSplineSet
+EndChar
+
+StartChar: three
+Encoding: 51 51 12
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 25
+ 11 12 l 25
+ 11 10 l 1
+ 8 7 l 1
+ 11 7 l 1
+ 11 2 l 1
+ 9 0 l 25
+ 5 0 l 25
+ 5 2 l 25
+ 8 2 l 25
+ 9 3 l 1
+ 9 5 l 1
+ 5 5 l 1
+ 5 7 l 1
+ 8 10 l 1
+ 5 10 l 1
+ 5 12 l 25
+EndSplineSet
+EndChar
+
+StartChar: four
+Encoding: 52 52 13
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+6 6 m 25
+ 8 6 l 25
+ 8 9 l 25
+ 6 6 l 25
+10 0 m 1
+ 8 0 l 1
+ 8 4 l 1
+ 4 4 l 1
+ 4 6 l 1
+ 8 12 l 1
+ 10 12 l 1
+ 10 6 l 1
+ 12 6 l 1
+ 12 4 l 1
+ 10 4 l 1
+ 10 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: five
+Encoding: 53 53 14
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 6 m 1053
+9 6 m 5
+ 5 6 l 5
+ 5 12 l 5
+ 11 12 l 5
+ 11 10 l 5
+ 7 10 l 5
+ 7 8 l 5
+ 11 8 l 5
+ 11 2 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 5 2 l 5
+ 5 4 l 5
+ 7 4 l 5
+ 7 3 l 5
+ 8 2 l 5
+ 9 3 l 5
+ 9 6 l 5
+EndSplineSet
+EndChar
+
+StartChar: six
+Encoding: 54 54 15
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 6 m 1053
+5 2 m 5
+ 5 10 l 5
+ 7 12 l 5
+ 11 12 l 5
+ 11 10 l 5
+ 8 10 l 5
+ 7 9 l 5
+ 7 7 l 5
+ 8 8 l 5
+ 9 8 l 5
+ 11 6 l 5
+ 11 2 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 5 2 l 5
+7 5 m 5
+ 7 3 l 5
+ 8 2 l 5
+ 9 3 l 5
+ 9 5 l 5
+ 8 6 l 5
+ 7 5 l 5
+EndSplineSet
+EndChar
+
+StartChar: seven
+Encoding: 55 55 16
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 12 m 1
+ 11 12 l 1
+ 11 10 l 1
+ 9 6 l 1
+ 9 0 l 1
+ 7 0 l 1
+ 7 6 l 1
+ 9 10 l 1
+ 5 10 l 1
+ 5 12 l 1
+EndSplineSet
+EndChar
+
+StartChar: eight
+Encoding: 56 56 17
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 1
+ 9 12 l 1
+ 11 10 l 1
+ 11 7 l 1
+ 10 6 l 1
+ 11 5 l 1
+ 11 2 l 1
+ 9 0 l 1
+ 7 0 l 1
+ 5 2 l 1
+ 5 5 l 1
+ 6 6 l 1
+ 5 7 l 1
+ 5 10 l 1
+ 7 12 l 1
+8 10 m 1
+ 7 9 l 1
+ 7 8 l 5
+ 8 7 l 1
+ 9 8 l 1
+ 9 9 l 1
+ 8 10 l 1
+8 5 m 1
+ 7 4 l 1
+ 7 3 l 1
+ 8 2 l 1
+ 9 3 l 1
+ 9 4 l 1
+ 8 5 l 1
+EndSplineSet
+EndChar
+
+StartChar: nine
+Encoding: 57 57 18
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 6 m 1049
+11 10 m 1
+ 11 2 l 1
+ 9 -0 l 1
+ 5 -0 l 1
+ 5 2 l 1
+ 8 2 l 1
+ 9 3 l 1
+ 9 5 l 1
+ 8 4 l 1
+ 7 4 l 1
+ 5 6 l 1
+ 5 10 l 1
+ 7 12 l 1
+ 9 12 l 1
+ 11 10 l 1
+9 7 m 1
+ 9 9 l 1
+ 8 10 l 1
+ 7 9 l 1
+ 7 7 l 1
+ 8 6 l 1
+ 9 7 l 1
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 19
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+6 4 m 0
+ 6 5 7 6 8 6 c 0
+ 9 6 10 5 10 4 c 0
+ 10 3 9 2 8 2 c 0
+ 7 2 6 3 6 4 c 0
+6 10 m 0
+ 6 11 7 12 8 12 c 0
+ 9 12 10 11 10 10 c 0
+ 10 9 9 8 8 8 c 0
+ 7 8 6 9 6 10 c 0
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 20
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 10 m 5
+ 5 12 l 5
+ 7 12 l 5
+ 11 12 l 5
+ 11 10 l 5
+ 7 10 l 5
+ 7 2 l 5
+ 11 2 l 5
+ 11 0 l 5
+ 7 0 l 5
+ 5 0 l 5
+ 5 2 l 5
+ 5 10 l 5
+EndSplineSet
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 21
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 10 m 1
+ 11 12 l 1
+ 9 12 l 1
+ 5 12 l 1
+ 5 10 l 1
+ 9 10 l 1
+ 9 2 l 1
+ 5 2 l 1
+ 5 0 l 1
+ 9 0 l 1
+ 11 0 l 1
+ 11 2 l 1
+ 11 10 l 1
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 22
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 29
+ 14 12 l 25
+ 14 10 l 25
+ 9 10 l 25
+ 9 2 l 25
+ 14 2 l 25
+ 14 0 l 25
+ 2 0 l 25
+ 2 2 l 25
+ 7 2 l 25
+ 7 10 l 25
+ 2 10 l 25
+ 2 12 l 29
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 23
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 0 m 1
+ 4 5 l 1
+ 4 0 l 1
+ 2 0 l 25
+ 2 12 l 1
+ 4 12 l 1
+ 4 7 l 1
+ 11 12 l 1
+ 14 12 l 1
+ 6 6 l 1
+ 14 0 l 1
+ 11 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 24
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 29
+ 4 12 l 25
+ 4 2 l 25
+ 14 2 l 25
+ 14 0 l 25
+ 2 0 l 25
+ 2 12 l 29
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 25
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 0 m 25
+ 2 12 l 1
+ 5 12 l 25
+ 8 2 l 1
+ 11 12 l 25
+ 14 12 l 1
+ 14 0 l 25
+ 12 0 l 1
+ 12 10 l 25
+ 9 0 l 1
+ 7 0 l 25
+ 4 10 l 25
+ 4 0 l 25
+ 2 0 l 25
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 26
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 1
+ 11 12 l 2
+ 13 12 14 11 14 9 c 0
+ 14 7 13 6 11 6 c 2
+ 4 6 l 1
+ 4 0 l 1
+ 2 0 l 1
+ 2 12 l 1
+4 10 m 1
+ 4 8 l 1
+ 11 8 l 2
+ 12 8 12 8 12 9 c 0
+ 12 10 12 10 11 10 c 2
+ 4 10 l 1
+EndSplineSet
+EndChar
+
+StartChar: t
+Encoding: 116 116 27
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 10 m 1
+ 2 10 l 1
+ 2 12 l 1
+ 14 12 l 1
+ 14 10 l 1
+ 9 10 l 1
+ 9 0 l 1
+ 7 0 l 1
+ 7 10 l 1
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 28
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 1
+ 4 12 l 1
+ 4 6 l 2
+ 4 4 6 2 8 2 c 0
+ 10 2 12 4 12 6 c 2
+ 12 12 l 1
+ 14 12 l 1
+ 14 6 l 2
+ 14 3 11 0 8 0 c 0
+ 5 0 2 3 2 6 c 2
+ 2 12 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniE000
+Encoding: 57344 57344 29
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 2 m 25
+ 9 2 l 25
+ 9 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+7 12 m 1
+ 9 12 l 1
+ 9 4 l 25
+ 7 4 l 25
+ 7 12 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" a
+EndChar
+
+StartChar: uniE001
+Encoding: 57345 57345 30
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+4 12 m 29
+ 8 8 l 29
+ 12 12 l 29
+ 14 10 l 29
+ 10 6 l 29
+ 14 2 l 29
+ 12 0 l 29
+ 8 4 l 29
+ 4 0 l 29
+ 2 2 l 29
+ 6 6 l 29
+ 2 10 l 29
+ 4 12 l 29
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" a l a
+EndChar
+
+StartChar: uniE002
+Encoding: 57346 57346 31
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+13 7 m 5
+ 14 6 l 5
+ 13 5 l 5
+ 11 3 l 5
+ 11 5 l 5
+ 2 5 l 5
+ 2 7 l 5
+ 11 7 l 5
+ 11 9 l 5
+ 13 7 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" i
+EndChar
+
+StartChar: uniE003
+Encoding: 57347 57347 32
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+4 6 m 4
+ 4 4 6 2 8 2 c 4
+ 10 2 12 4 12 6 c 4
+ 12 8 10 10 8 10 c 4
+ 6 10 4 8 4 6 c 4
+2 6 m 4
+ 2 9 5 12 8 12 c 4
+ 11 12 14 9 14 6 c 4
+ 14 3 11 0 8 0 c 4
+ 5 0 2 3 2 6 c 4
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" i k u
+EndChar
+
+StartChar: uniE004
+Encoding: 57348 57348 33
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+9 10 m 1
+ 9 0 l 1
+ 7 0 l 1
+ 7 10 l 1
+ 2 10 l 1
+ 2 12 l 1
+ 7 12 l 1
+ 9 12 l 1
+ 14 12 l 1
+ 14 10 l 1
+ 9 10 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" i l u
+EndChar
+
+StartChar: uniE005
+Encoding: 57349 57349 34
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 6 m 0
+ 9 7 9 7 10 7 c 0
+ 11 7 11 7 11 6 c 0
+ 11 5 11 5 10 5 c 0
+ 9 5 9 5 9 6 c 0
+5 6 m 0
+ 5 7 5 7 6 7 c 0
+ 7 7 7 7 7 6 c 0
+ 7 5 7 5 6 5 c 0
+ 5 5 5 5 5 6 c 0
+4 6 m 0
+ 4 4 6 2 8 2 c 0
+ 10 2 12 4 12 6 c 0
+ 12 8 10 10 8 10 c 0
+ 6 10 4 8 4 6 c 0
+2 6 m 0
+ 2 9 5 12 8 12 c 0
+ 11 12 14 9 14 6 c 0
+ 14 3 11 0 8 0 c 0
+ 5 0 2 3 2 6 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" k a
+EndChar
+
+StartChar: uniE006
+Encoding: 57350 57350 35
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 5
+ 9 12 l 5
+ 9 9 l 5
+ 11 12 l 5
+ 13 12 l 5
+ 9 6 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 7 6 l 5
+ 3 12 l 5
+ 5 12 l 5
+ 7 9 l 5
+ 7 12 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" k a t i
+EndChar
+
+StartChar: uniE007
+Encoding: 57351 57351 36
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 4 m 2
+ 7 6 8 7 10 7 c 0
+ 11 7 11 7 11 8 c 0
+ 11 9 11 10 10 10 c 2
+ 7 10 l 1
+ 7 12 l 1
+ 10 12 l 2
+ 12 12 13 10 13 8 c 0
+ 13 6 12 5 10 5 c 0
+ 9 5 9 4 9 4 c 1
+ 9 3 l 1
+ 11 3 l 1
+ 8 0 l 1
+ 5 3 l 1
+ 7 3 l 1
+ 7 4 l 2
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" k i
+EndChar
+
+StartChar: uniE008
+Encoding: 57352 57352 37
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+8 9 m 1
+ 5 6 l 1
+ 8 3 l 1
+ 11 6 l 1
+ 8 9 l 1
+8 12 m 25
+ 14 6 l 1
+ 8 0 l 25
+ 2 6 l 1
+ 8 12 l 25
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" k i k u
+EndChar
+
+StartChar: uniE009
+Encoding: 57353 57353 38
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 7 m 4
+ 13 7 14 6 14 4 c 4
+ 14 2 13 0 11 0 c 6
+ 9 0 l 5
+ 9 2 l 5
+ 11 2 l 6
+ 12 2 12 3 12 4 c 4
+ 12 5 12 5 11 5 c 4
+ 9 5 8 6 8 8 c 4
+ 8 10 9 12 11 12 c 6
+ 13 12 l 5
+ 13 10 l 5
+ 11 10 l 6
+ 10 10 10 9 10 8 c 4
+ 10 7 10 7 11 7 c 4
+5 7 m 4
+ 7 7 8 6 8 4 c 4
+ 8 2 7 0 5 0 c 6
+ 3 0 l 5
+ 3 2 l 5
+ 5 2 l 6
+ 6 2 6 3 6 4 c 4
+ 6 5 6 5 5 5 c 4
+ 3 5 2 6 2 8 c 4
+ 2 10 3 12 5 12 c 6
+ 7 12 l 5
+ 7 10 l 5
+ 5 10 l 6
+ 4 10 4 9 4 8 c 4
+ 4 7 4 7 5 7 c 4
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" k u
+EndChar
+
+StartChar: uniE00A
+Encoding: 57354 57354 39
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+5 11 m 1
+ 6 12 l 1
+ 10 8 l 1
+ 10 4 l 1
+ 6 0 l 1
+ 5 1 l 25
+ 8 4 l 1
+ 8 8 l 1
+ 5 11 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l a
+EndChar
+
+StartChar: uniE00B
+Encoding: 57355 57355 40
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+11 6 m 4
+ 11 5 11 5 12 5 c 4
+ 13 5 13 5 13 6 c 4
+ 13 7 13 7 12 7 c 4
+ 11 7 11 7 11 6 c 4
+9 5 m 6
+ 2 5 l 5
+ 2 7 l 5
+ 9 7 l 6
+ 9 8 10 9 12 9 c 4
+ 14 9 15 8 15 6 c 4
+ 15 4 14 3 12 3 c 4
+ 10 3 9 4 9 5 c 6
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l a p i
+EndChar
+
+StartChar: uniE00C
+Encoding: 57356 57356 41
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 7 m 5
+ 5 9 l 5
+ 5 7 l 5
+ 14 7 l 5
+ 14 5 l 5
+ 5 5 l 5
+ 5 3 l 5
+ 3 5 l 5
+ 2 6 l 5
+ 3 7 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l i
+EndChar
+
+StartChar: uniE00D
+Encoding: 57357 57357 42
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 6 m 4
+ 7 7 7 7 6 7 c 4
+ 5 7 4 7 4 6 c 6
+ 4 3 l 5
+ 2 3 l 5
+ 2 6 l 6
+ 2 8 4 9 6 9 c 4
+ 8 9 9 8 9 6 c 4
+ 9 5 9 5 10 5 c 4
+ 11 5 12 5 12 6 c 6
+ 12 9 l 5
+ 14 9 l 5
+ 14 6 l 6
+ 14 4 12 3 10 3 c 4
+ 8 3 7 4 7 6 c 4
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l i k a
+EndChar
+
+StartChar: uniE00E
+Encoding: 57358 57358 43
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 0
+ 3 7 3 7 4 7 c 0
+ 5 7 5 7 5 6 c 0
+ 5 5 5 5 4 5 c 0
+ 3 5 3 5 3 6 c 0
+10 6 m 0
+ 10 5 10 5 11 5 c 0
+ 12 5 12 5 12 6 c 0
+ 12 7 12 7 11 7 c 0
+ 10 7 10 7 10 6 c 0
+8 6 m 0
+ 8 8 9 9 11 9 c 0
+ 13 9 14 8 14 6 c 0
+ 14 4 13 3 11 3 c 0
+ 9 3 8 4 8 6 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l i l i
+EndChar
+
+StartChar: uniE00F
+Encoding: 57359 57359 44
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+2 0 m 5
+ 2 2 l 5
+ 14 2 l 5
+ 14 0 l 5
+ 2 0 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l u
+EndChar
+
+StartChar: uniE010
+Encoding: 57360 57360 45
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 5
+ 4 12 l 5
+ 4 2 l 5
+ 12 2 l 5
+ 12 12 l 5
+ 14 12 l 5
+ 14 0 l 5
+ 2 0 l 5
+ 2 12 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" l u p a
+EndChar
+
+StartChar: uniE011
+Encoding: 57361 57361 46
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 1 m 5
+ 5 3 l 5
+ 7 3 l 5
+ 7 12 l 5
+ 9 12 l 5
+ 9 3 l 5
+ 11 3 l 5
+ 9 1 l 5
+ 8 0 l 5
+ 7 1 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" m i
+EndChar
+
+StartChar: uniE012
+Encoding: 57362 57362 47
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+5 6 m 1
+ 6 5 7 4 8 4 c 0
+ 9 4 10 5 11 6 c 1
+ 5 6 l 1
+2 8 m 1
+ 14 8 l 1
+ 14 5 11 2 8 2 c 0
+ 5 2 2 5 2 8 c 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" m u k u
+EndChar
+
+StartChar: uniE013
+Encoding: 57363 57363 48
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+10 9 m 0
+ 10 8 10 8 11 8 c 0
+ 12 8 12 8 12 9 c 0
+ 12 10 12 10 11 10 c 0
+ 10 10 10 10 10 9 c 0
+2 9 m 0
+ 2 11 3 12 5 12 c 0
+ 7 12 8 11 8 9 c 1
+ 8 11 9 12 11 12 c 0
+ 13 12 14 11 14 9 c 0
+ 14 7 13 6 12 6 c 0
+ 12 3 11 0 8 0 c 0
+ 5 0 4 3 4 6 c 0
+ 3 6 2 7 2 9 c 0
+4 9 m 0
+ 4 8 4 8 5 8 c 0
+ 6 8 6 8 6 9 c 0
+ 6 10 6 10 5 10 c 0
+ 4 10 4 10 4 9 c 0
+6 6 m 0
+ 6 4 6 2 8 2 c 0
+ 10 2 10 4 10 6 c 0
+ 9 6 8 7 8 9 c 1
+ 8 7 7 6 6 6 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" m u t i
+EndChar
+
+StartChar: uniE014
+Encoding: 57364 57364 49
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 12 m 1
+ 8 10 l 1
+ 12 12 l 1
+ 14 11 l 1
+ 10 9 l 1
+ 14 7 l 1
+ 12 6 l 1
+ 8 8 l 1
+ 4 6 l 1
+ 2 7 l 1
+ 6 9 l 1
+ 2 11 l 1
+ 4 12 l 1
+12 0 m 5
+ 12 2 10 4 8 4 c 4
+ 6 4 4 2 4 0 c 5
+ 2 0 l 5
+ 2 3 5 6 8 6 c 4
+ 11 6 14 3 14 0 c 5
+ 12 0 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" p a k a
+EndChar
+
+StartChar: uniE015
+Encoding: 57365 57365 50
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+6 9 m 0
+ 6 8 7 7 8 7 c 0
+ 9 7 10 8 10 9 c 0
+ 10 10 9 11 8 11 c 0
+ 7 11 6 10 6 9 c 0
+4 9 m 0
+ 4 10 6 12 8 12 c 0
+ 10 12 12 10 12 9 c 0
+ 12 8 10 6 8 6 c 0
+ 6 6 4 8 4 9 c 0
+12 0 m 1
+ 12 2 10 4 8 4 c 0
+ 6 4 4 2 4 0 c 1
+ 2 0 l 1
+ 2 3 5 6 8 6 c 0
+ 11 6 14 3 14 0 c 1
+ 12 0 l 1
+EndSplineSet
+LCarets2: 3 0 0 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" p a l i
+EndChar
+
+StartChar: uniE016
+Encoding: 57366 57366 51
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+12 9 m 1
+ 14 9 l 1
+ 14 3 l 1
+ 12 3 l 1
+ 12 5 l 1
+ 4 5 l 1
+ 4 3 l 1
+ 2 3 l 1
+ 2 9 l 1
+ 4 9 l 1
+ 4 7 l 1
+ 12 7 l 1
+ 12 9 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" p u k a
+EndChar
+
+StartChar: uniE017
+Encoding: 57367 57367 52
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+12 8 m 5
+ 14 8 l 5
+ 14 5 11 2 8 2 c 4
+ 5 2 2 5 2 8 c 5
+ 4 8 l 5
+ 4 6 6 4 8 4 c 4
+ 10 4 12 6 12 8 c 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" p u l a
+EndChar
+
+StartChar: uniE018
+Encoding: 57368 57368 53
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+12 12 m 17
+ 12 2 l 1
+ 14 2 l 9
+ 14 0 l 1
+ 10 0 l 17
+ 10 2 l 1
+ 10 8 l 1
+ 4 2 l 1
+ 6 2 l 1
+ 6 0 l 9
+ 2 -0 l 25
+ 2 2 l 1
+ 12 12 l 17
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t a k a
+EndChar
+
+StartChar: uniE019
+Encoding: 57369 57369 54
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+2 5 m 5
+ 14 5 l 5
+ 14 3 l 5
+ 2 3 l 5
+ 2 5 l 5
+2 9 m 5
+ 14 9 l 5
+ 14 7 l 5
+ 2 7 l 5
+ 2 9 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t a m a
+EndChar
+
+StartChar: uniE01A
+Encoding: 57370 57370 55
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 11 m 1
+ 4 11 l 1
+ 4 11 l 1
+ 5 12 7 12 8 12 c 0
+ 11 12 14 9 14 6 c 0
+ 14 3 11 0 8 0 c 0
+ 5 0 2 2 2 5 c 1
+ 4 5 l 1
+ 4 3 6 2 8 2 c 0
+ 10 2 12 4 12 6 c 0
+ 12 8 10 10 8 10 c 0
+ 7 10 6 10 5 9 c 1
+ 6 9 l 1
+ 6 7 l 1
+ 2 7 l 1
+ 2 11 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i k i
+EndChar
+
+StartChar: uniE01B
+Encoding: 57371 57371 56
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 0 m 5
+ 2 12 l 5
+ 14 12 l 5
+ 14 0 l 5
+ 12 0 l 5
+ 12 10 l 5
+ 4 10 l 5
+ 4 0 l 5
+ 2 0 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i k u
+EndChar
+
+StartChar: uniE01C
+Encoding: 57372 57372 57
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 11 m 5
+ 8 12 l 5
+ 9 11 l 5
+ 11 9 l 5
+ 9 9 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 7 9 l 5
+ 5 9 l 5
+ 7 11 l 5
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i l a
+EndChar
+
+StartChar: uniE01D
+Encoding: 57373 57373 58
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 3 m 4
+ 7 4 7 4 6 4 c 4
+ 5 4 4 4 4 3 c 6
+ 4 1 l 5
+ 2 1 l 5
+ 2 3 l 6
+ 2 5 4 6 6 6 c 4
+ 8 6 9 5 9 3 c 4
+ 9 2 9 2 10 2 c 4
+ 11 2 12 2 12 3 c 6
+ 12 5 l 5
+ 14 5 l 5
+ 14 3 l 6
+ 14 1 12 0 10 0 c 4
+ 8 0 7 1 7 3 c 4
+7 9 m 4
+ 7 10 7 10 6 10 c 4
+ 5 10 4 10 4 9 c 6
+ 4 7 l 5
+ 2 7 l 5
+ 2 9 l 6
+ 2 11 4 12 6 12 c 4
+ 8 12 9 11 9 9 c 4
+ 9 8 9 8 10 8 c 4
+ 11 8 12 8 12 9 c 6
+ 12 11 l 5
+ 14 11 l 5
+ 14 9 l 6
+ 14 7 12 6 10 6 c 4
+ 8 6 7 7 7 9 c 4
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i l u
+EndChar
+
+StartChar: uniE01E
+Encoding: 57374 57374 59
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 2 m 5
+ 9 2 l 5
+ 9 0 l 5
+ 7 0 l 5
+ 7 2 l 5
+9 4 m 9
+ 7 4 l 17
+ 7 6 8 7 10 7 c 0
+ 11 7 11 7 11 8 c 0
+ 11 9 11 10 10 10 c 2
+ 7 10 l 1
+ 7 12 l 1
+ 10 12 l 2
+ 12 12 13 10 13 8 c 0
+ 13 6 12 5 10 5 c 0
+ 9 5 9 4 9 4 c 9
+EndSplineSet
+LCarets2: 3 0 0 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i m i
+EndChar
+
+StartChar: uniE01F
+Encoding: 57375 57375 60
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 12 m 1
+ 14 12 l 1
+ 14 0 l 1
+ 2 0 l 1
+ 2 2 l 1
+ 12 2 l 1
+ 12 10 l 1
+ 2 10 l 1
+ 2 12 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i p i
+EndChar
+
+StartChar: uniE020
+Encoding: 57376 57376 61
+Width: 16
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+3 6 m 4
+ 3 7 3 7 4 7 c 4
+ 5 7 5 7 5 6 c 4
+ 5 5 5 5 4 5 c 4
+ 3 5 3 5 3 6 c 4
+11 6 m 0
+ 11 7 11 7 12 7 c 0
+ 13 7 13 7 13 6 c 0
+ 13 5 13 5 12 5 c 0
+ 11 5 11 5 11 6 c 0
+7 6 m 0
+ 7 7 7 7 8 7 c 0
+ 9 7 9 7 9 6 c 0
+ 9 5 9 5 8 5 c 0
+ 7 5 7 5 7 6 c 0
+2 2 m 1
+ 14 2 l 1
+ 14 0 l 1
+ 2 0 l 1
+ 2 2 l 1
+2 12 m 1
+ 14 12 l 1
+ 14 10 l 1
+ 2 10 l 1
+ 2 12 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t u
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t i t i
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE021
+Encoding: 57377 57377 62
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 5
+ 7 0 l 5
+ 5 0 l 5
+ 5 12 l 5
+ 7 12 l 5
+11 12 m 5
+ 11 0 l 5
+ 9 0 l 5
+ 9 12 l 5
+ 11 12 l 5
+EndSplineSet
+LCarets2: 3 0 0 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t u k i
+EndChar
+
+StartChar: uniE022
+Encoding: 57378 57378 63
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 4 m 0
+ 4 3 6 2 8 2 c 0
+ 10 2 12 3 12 4 c 0
+ 12 5 10 6 8 6 c 0
+ 6 6 4 5 4 4 c 0
+2 4 m 0
+ 2 6 5 8 8 8 c 0
+ 11 8 14 6 14 4 c 0
+ 14 2 11 0 8 0 c 0
+ 5 0 2 2 2 4 c 0
+12 11 m 1
+ 14 11 l 1
+ 14 9 l 1
+ 12 9 l 1
+ 12 11 l 1
+7 12 m 1
+ 9 12 l 1
+ 9 10 l 1
+ 7 10 l 1
+ 7 12 l 1
+2 9 m 1
+ 2 11 l 1
+ 4 11 l 1
+ 4 9 l 1
+ 2 9 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t u l a
+EndChar
+
+StartChar: uniE023
+Encoding: 57379 57379 64
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 4 m 0
+ 4 3 6 2 8 2 c 0
+ 10 2 12 3 12 4 c 0
+ 12 5 10 6 8 6 c 0
+ 6 6 4 5 4 4 c 0
+7 4 m 0
+ 7 5 7 5 8 5 c 0
+ 9 5 9 5 9 4 c 0
+ 9 3 9 3 8 3 c 0
+ 7 3 7 3 7 4 c 0
+12 12 m 1
+ 14 12 l 1
+ 14 9 11 8 8 8 c 1
+ 11 8 14 6 14 4 c 0
+ 14 2 11 0 8 0 c 0
+ 5 0 2 2 2 4 c 0
+ 2 6 5 8 8 8 c 1
+ 5 8 2 9 2 12 c 1
+ 4 12 l 1
+ 4 10 6 10 8 10 c 0
+ 10 10 12 10 12 12 c 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" t u l u
+EndChar
+
+StartChar: uniE024
+Encoding: 57380 57380 65
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+7 12 m 1
+ 9 12 l 1
+ 9 10 l 1
+ 10 10 12 8 12 7 c 1
+ 14 7 l 1
+ 14 5 l 1
+ 12 5 l 1
+ 12 4 10 2 9 2 c 1
+ 9 0 l 1
+ 7 0 l 1
+ 7 2 l 1
+ 6 2 4 4 4 5 c 1
+ 2 5 l 1
+ 2 7 l 1
+ 4 7 l 1
+ 4 8 6 10 7 10 c 1
+ 7 12 l 1
+8 8 m 0
+ 7 8 6 7 6 6 c 0
+ 6 5 7 4 8 4 c 0
+ 9 4 10 5 10 6 c 0
+ 10 7 9 8 8 8 c 0
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" u l i
+EndChar
+
+StartChar: uniE025
+Encoding: 57381 57381 66
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+8 12 m 1
+ 10 12 l 1
+ 8 8 l 1
+ 12 8 l 1
+ 9 2 l 1
+ 10 2 l 1
+ 8 0 l 1
+ 6 2 l 1
+ 7 2 l 1
+ 9 6 l 1
+ 5 6 l 1
+ 8 12 l 1
+EndSplineSet
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" u p i
+EndChar
+
+StartChar: uniE026
+Encoding: 57382 57382 67
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 9 m 1
+ 8 12 l 1
+ 11 9 l 1
+ 9 9 l 1
+ 9 6 l 1
+ 10 6 11 5 11 3 c 0
+ 11 1 10 0 8 0 c 0
+ 6 0 5 1 5 3 c 0
+ 5 5 6 6 7 6 c 1
+ 7 9 l 1
+ 5 9 l 1
+7 3 m 0
+ 7 2 7 2 8 2 c 0
+ 9 2 9 2 9 3 c 0
+ 9 4 9 4 8 4 c 0
+ 7 4 7 4 7 3 c 0
+EndSplineSet
+EndChar
+
+StartChar: uniE027
+Encoding: 57383 57383 68
+Width: 16
+Flags: W
+LayerCount: 2
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" space space
+EndChar
+
+StartChar: uniE040
+Encoding: 57408 57408 69
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+9 2 m 25
+ 11 2 l 25
+ 11 0 l 25
+ 9 0 l 25
+ 9 2 l 25
+9 12 m 1
+ 11 12 l 1
+ 11 4 l 25
+ 9 4 l 25
+ 9 12 l 1
+5 2 m 25
+ 7 2 l 25
+ 7 0 l 25
+ 5 0 l 25
+ 5 2 l 25
+5 12 m 1
+ 7 12 l 1
+ 7 4 l 25
+ 5 4 l 25
+ 5 12 l 1
+EndSplineSet
+Ligature2: "'dlig' Discretionary Ligatures lookup 1-1" a space a
+EndChar
+
+StartChar: uniE041
+Encoding: 57409 57409 70
+Width: 16
+VWidth: 1000
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+11 2 m 25
+ 13 2 l 25
+ 13 0 l 25
+ 11 0 l 25
+ 11 2 l 25
+11 12 m 1
+ 13 12 l 1
+ 13 4 l 25
+ 11 4 l 25
+ 11 12 l 1
+7 2 m 25
+ 9 2 l 25
+ 9 0 l 25
+ 7 0 l 25
+ 7 2 l 25
+7 12 m 1
+ 9 12 l 1
+ 9 4 l 25
+ 7 4 l 25
+ 7 12 l 1
+3 2 m 25
+ 5 2 l 25
+ 5 0 l 25
+ 3 0 l 25
+ 3 2 l 25
+3 12 m 1
+ 5 12 l 1
+ 5 4 l 25
+ 3 4 l 25
+ 3 12 l 1
+EndSplineSet
+Ligature2: "'dlig' Discretionary Ligatures lookup 1-1" a space a space a
+EndChar
+
+StartChar: uniE042
+Encoding: 57410 57410 71
+Width: 16
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 2 m 5
+ 4 2 l 5
+ 4 0 l 5
+ 2 0 l 5
+ 2 2 l 5
+10 2 m 25
+ 12 2 l 25
+ 12 0 l 25
+ 10 0 l 25
+ 10 2 l 25
+10 12 m 1
+ 12 12 l 1
+ 12 4 l 25
+ 10 4 l 25
+ 10 12 l 1
+4 4 m 9
+ 2 4 l 17
+ 2 6 3 7 5 7 c 0
+ 6 7 6 7 6 8 c 0
+ 6 9 6 10 5 10 c 2
+ 2 10 l 1
+ 2 12 l 1
+ 5 12 l 2
+ 7 12 8 10 8 8 c 0
+ 8 6 7 5 5 5 c 0
+ 4 5 4 4 4 4 c 9
+EndSplineSet
+Ligature2: "'dlig' Discretionary Ligatures lookup 1-1" t i m i space a
+EndChar
+EndChars
+EndSplineFont
