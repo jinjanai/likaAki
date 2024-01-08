@@ -1,2 +1,2 @@
 # likaAki
-geometric sans-serif font for tuki tiki's logography
+This is a font for tuki tiki's logography. Has ASCII input.
